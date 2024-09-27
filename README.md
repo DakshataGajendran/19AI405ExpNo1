@@ -241,3 +241,13 @@ if   __name__ == "__main__":
         print("Performance : {0}".format(agent.performance)) 
         time.sleep(3)
 ```
+
+OUTPUT:
+![image](https://github.com/user-attachments/assets/2816d755-5861-4efe-a161-6b4606530f31)
+
+![image](https://github.com/user-attachments/assets/f48a22e4-79cc-4c05-9d54-171229d960a4)
+
+RESULT:
+Thus , Developing an AI agent with PEAS is implemented successfully using python programming.
+
+
